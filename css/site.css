@@ -7,3 +7,10 @@ body {
     background-color: #3b3b3b;
     background-image: url("https://www.transparenttextures.com/patterns/dark-wood.png");
 }
+
+.titleFont{
+    /*font-family: 'Domine',
+    serif;*/
+     font-family: 'PT Serif',
+    serif; 
+}
